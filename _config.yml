@@ -16,10 +16,7 @@
 title: 乘风破浪的Coder
 email: 978568519@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
+  乘风破浪的博客，乘风破浪的Coder，乘风破浪的前端攻城狮，乘风破浪的youtiao66
 github_username: youtiao66
 minimal_mistakes_skin: default
 search: true
@@ -58,34 +55,29 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "youtiao66"
+  avatar : "/assets/images/avatar.jpg"
+  bio    : "乘风破浪的博客，乘风破浪的Coder，乘风破浪的前端攻城狮，乘风破浪的youtiao66"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "978568519@qq.com"
+      icon: "fab fa-fw fa-envelope"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://youtiao66.github.io/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "978568519@qq.com"
+      icon: "fab fa-fw fa-envelope"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://youtiao66.github.io/"
 
 defaults:
   # _posts
