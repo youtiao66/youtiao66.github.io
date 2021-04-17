@@ -57,13 +57,13 @@ plugins:
 author:
   name   : "youtiao66"
   avatar : "/assets/images/avatar.jpg"
-  bio    : "乘风破浪的博客，乘风破浪的Coder，乘风破浪的前端攻城狮，乘风破浪的youtiao66"
+  bio    : "乘风破浪的前端攻城狮"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/youtiao66"
     - label: "978568519@qq.com"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fas fa-fw fa-envelope"
       url: "javascript:void"
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -73,9 +73,9 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/youtiao66"
     - label: "978568519@qq.com"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fas fa-fw fa-envelope"
       url: "javascript:void"
     - label: "Website"
       icon: "fas fa-fw fa-link"
