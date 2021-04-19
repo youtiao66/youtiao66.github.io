@@ -19,6 +19,9 @@ toc_icon: "cog"
 - [npm 支持](https://developers.weixin.qq.com/miniprogram/dev/devtools/npm.html)
 - [自定义分析](https://developers.weixin.qq.com/miniprogram/analysis/custom/)
 
+## macOS
+- [Homebrew 清华大学镜像](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)
+
 ## UI设计
 - [Color Hunt - Popular Schemes for Designers and Artists](https://colorhunt.co/palettes/popular)
 
