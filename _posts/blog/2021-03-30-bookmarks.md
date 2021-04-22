@@ -27,3 +27,7 @@ toc_icon: "cog"
 
 ## 实用工具
 - [轻闪 PDF，PDF 转 Word](https://lightpdf.cn/)
+- [IObit Uninstaller 软件卸载工具](https://www.iobit.com/en/advanceduninstaller.php)
+
+## 其他
+- [hankqin 的软件工具集](https://soft.hankqin.com/)
