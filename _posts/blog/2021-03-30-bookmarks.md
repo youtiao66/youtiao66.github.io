@@ -31,3 +31,4 @@ toc_icon: "cog"
 
 ## 其他
 - [hankqin 的软件工具集](https://soft.hankqin.com/)
+- [精品 Mac 应用分享](https://xclient.info/)
