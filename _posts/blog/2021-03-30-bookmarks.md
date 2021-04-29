@@ -26,6 +26,7 @@ toc_icon: "cog"
 - [Color Hunt - Popular Schemes for Designers and Artists](https://colorhunt.co/palettes/popular)
 
 ## 实用工具
+- [Quicker - 您的指尖工具箱](https://getquicker.net/)
 - [轻闪 PDF，PDF 转 Word](https://lightpdf.cn/)
 - [IObit Uninstaller 软件卸载工具](https://www.iobit.com/en/advanceduninstaller.php)
 
