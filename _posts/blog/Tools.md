@@ -40,14 +40,6 @@ git reset --hard [<commit>]
 ### 将`markdown`转换成`docx`
 `pandoc -f markdown -t docx ./test.md -o test.docx`
 
-## Chrome
-### Chrome Cookies
-```
-  chrome://flags/
-  => SameSite by default cookies
-  => Cookies without SameSite must be secure
-```
-
 ### ServiceWorker
 如何停用 Service Worker 缓存
 
@@ -56,3 +48,10 @@ git reset --hard [<commit>]
   => Open DevTools window and pause JavaScript execution on Service Worker startup for debugging.
   => 选择需要取消缓存对应的网址，点击 unregister 取消缓存
 ```
+
+## Todos
+
+### 同一个 WiFi 下，手机可以上网，但是电脑不可以
+- ipconfig /flushdns
+- 重启网络适配器
+- IE 浏览器恢复默认设置
