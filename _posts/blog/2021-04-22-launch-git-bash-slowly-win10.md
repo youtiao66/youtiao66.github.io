@@ -7,6 +7,9 @@ tags:
   - Git
   - Git Bash
   - Windows
+toc: true
+toc_label: "目录"
+toc_icon: "cog"
 ---
 
 Win10 桌面或文件夹内右键打开 git bash 打开需要等好久，启动很慢，如何解决

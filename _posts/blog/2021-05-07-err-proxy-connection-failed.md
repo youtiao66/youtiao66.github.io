@@ -7,6 +7,9 @@ tags:
   - Windows
   - Internet
   - IE
+toc: true
+toc_label: "目录"
+toc_icon: "cog"
 ---
 
 同一个 WiFi 下，手机可以上网，但是电脑不可以。如何解决 ERR_PROXY_CONNECTION_FAILED 错误？

@@ -6,6 +6,9 @@ categories:
 tags:
   - Chrome
   - Cookie
+toc: true
+toc_label: "目录"
+toc_icon: "cog"
 ---
 
 Chrome 80 禁用第三方 Cookie。Chrome 80 开始，第三方 Cookie 中的 SameSite 属性未指定时，默认值将会设置为 Lax，此举可以提升站点安全性，从源头防御大量的 CSRF 漏洞，但同时也会导致跨站请求时 Cookie 下发失败。

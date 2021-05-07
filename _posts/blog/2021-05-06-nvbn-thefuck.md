@@ -7,6 +7,9 @@ tags:
   - GitHub
   - HelloGitHub
   - thefuck
+toc: true
+toc_label: "目录"
+toc_icon: "cog"
 ---
 
 The Fuck 是一个可以快速纠正上次控制台命令的神奇指令
