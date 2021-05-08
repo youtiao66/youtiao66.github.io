@@ -2,10 +2,10 @@
 title: "一个可以快速纠正上次控制台命令的神奇指令"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
-tags:
   - GitHub
-  - HelloGitHub
+tags:
+  - bash
+  - command
   - thefuck
 toc: true
 toc_label: "目录"
