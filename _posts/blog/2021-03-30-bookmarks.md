@@ -24,6 +24,8 @@ toc_icon: "cog"
 
 ## UI设计
 - [Color Hunt - Popular Schemes for Designers and Artists](https://colorhunt.co/palettes/popular)
+- [Glassmorphism 玻璃特效生成器](https://zxuqian.cn/docs/tools/glassmorphism-generator)
+  - [backdrop-filter 添加图形效果](https://developer.mozilla.org/zh-CN/docs/Web/CSS/backdrop-filter)
 
 ## 实用工具
 - [Quicker - 您的指尖工具箱](https://getquicker.net/)
