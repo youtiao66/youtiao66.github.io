@@ -20,7 +20,7 @@ toc_icon: "cog"
 例如，你可以尝试访问 `VS Code` 源代码仓库：
 [https://github1s.com/microsoft/vscode](https://github1s.com/microsoft/vscode)
 
-![github1s](https://raw.githubusercontent.com/conwnet/github1s/master/resources/images/vs-code-github1s.png)
+![github1s](https://i.loli.net/2021/05/10/XU7eaBT4fJimGRP.png)
 
 ## `Star: 18.1k`
 
