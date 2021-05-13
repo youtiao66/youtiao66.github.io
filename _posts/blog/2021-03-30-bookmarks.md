@@ -24,8 +24,11 @@ toc_icon: "cog"
 
 ## UI设计
 - [Color Hunt - Popular Schemes for Designers and Artists](https://colorhunt.co/palettes/popular)
+- [Glassmorphism 玻璃特效生成器](https://zxuqian.cn/docs/tools/glassmorphism-generator)
+  - [backdrop-filter 添加图形效果](https://developer.mozilla.org/zh-CN/docs/Web/CSS/backdrop-filter)
+- [U钙网 - 免费的LOGO在线设计制作工具](http://www.uugai.com/)
 
-## 实用工具
+## Windows 软件
 - [Quicker - 您的指尖工具箱](https://getquicker.net/)
 - [轻闪 PDF，PDF 转 Word](https://lightpdf.cn/)
 - [IObit Uninstaller 软件卸载工具](https://www.iobit.com/en/advanceduninstaller.php)
