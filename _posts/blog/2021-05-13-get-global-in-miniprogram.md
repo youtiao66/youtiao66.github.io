@@ -17,6 +17,8 @@ toc_icon: "cog"
 <!--more-->
 
 ## 问题
+> 小程序的主要开发语言是 JavaScript ，小程序的开发同普通的网页开发相比有很大的相似性。对于前端开发者而言，从网页开发迁移到小程序的开发成本并不高，但是二者还是有些许区别的。
+
 通过 `yarn add lodash.debounce` 添加到原生微信小程序项目中的防抖代码无法直接运行。
 
 ![TypeError](https://i.loli.net/2021/05/13/OAhVwnQE9z2JTC5.png)
