@@ -19,7 +19,7 @@ toc_icon: "cog"
 ## 问题
 通过 `yarn add lodash.debounce` 添加到原生微信小程序项目中的防抖代码无法直接运行。
 
-![TypeError](https://i.loli.net/2021/05/13/UIYDCo3Q1BWS4Gv.png)
+![TypeError](https://i.loli.net/2021/05/13/OAhVwnQE9z2JTC5.png)
 
 ```js
 // => TypeError: Cannot read property 'now' of undefined
