@@ -21,6 +21,10 @@ toc_icon: "cog"
 
 ![TypeError](https://i.loli.net/2021/05/13/UIYDCo3Q1BWS4Gv.png)
 
+```js
+// => TypeError: Cannot read property 'now' of undefined
+```
+
 这是因为，`lodash` 获取全局对象的方式在微信小程序中不适用
 
 ```js
