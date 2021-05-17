@@ -57,13 +57,6 @@ public class HelloWorld
 jsonString = jsonString.replace(/\t/g, "\\t");
 ```
 
-// https://coderanch.com/t/411406/java/Import-jar-File-Java-Code
-// javac -cp fastjson-1.1.24.jar HelloWorld.java
-// java -cp .:fastjson-1.1.24.jar HelloWorld
-
-// You need to specify the classpath for compilation and at runtime:
-// Note that the dot is important, otherwise the SWTHelloWorld class won't get found. (This assumes that you're using Windows; if you're on Unix, use a colon instead of a semicolon.)
-
 ## 如何在 `Java` 代码中导入 `jar` 包并执行
 为了复现该`BUG`，我可是折腾了好久。由于并没有准备`Java Web`环境，想要运行起来简直是一波三折。这是我的源代码，`jar`包、源代码以及构建目录均直接使用项目根目录。
 
