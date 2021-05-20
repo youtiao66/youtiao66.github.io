@@ -27,6 +27,7 @@ toc_icon: "cog"
 - [Glassmorphism 玻璃特效生成器](https://zxuqian.cn/docs/tools/glassmorphism-generator)
   - [backdrop-filter 添加图形效果](https://developer.mozilla.org/zh-CN/docs/Web/CSS/backdrop-filter)
 - [U钙网 - 免费的LOGO在线设计制作工具](http://www.uugai.com/)
+- [Optimizilla - 图像压缩神器](https://imagecompressor.com/zh/)
 
 ## Windows 软件
 - [Quicker - 您的指尖工具箱](https://getquicker.net/)
