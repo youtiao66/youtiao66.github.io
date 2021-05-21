@@ -28,6 +28,9 @@ toc_icon: "cog"
   - [backdrop-filter 添加图形效果](https://developer.mozilla.org/zh-CN/docs/Web/CSS/backdrop-filter)
 - [U钙网 - 免费的LOGO在线设计制作工具](http://www.uugai.com/)
 
+## Photoshop
+- [Bezier - 一个帮助掌握钢笔工具的游戏](https://bezier.method.ac/)
+
 ## Windows 软件
 - [Quicker - 您的指尖工具箱](https://getquicker.net/)
 - [轻闪 PDF，PDF 转 Word](https://lightpdf.cn/)
