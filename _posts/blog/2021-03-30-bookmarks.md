@@ -33,6 +33,7 @@ toc_icon: "cog"
 - [Quicker - 您的指尖工具箱](https://getquicker.net/)
 - [轻闪 PDF，PDF 转 Word](https://lightpdf.cn/)
 - [IObit Uninstaller 软件卸载工具](https://www.iobit.com/en/advanceduninstaller.php)
+- [Lunacy - 平面设计软件，与Sketch完全兼容](https://igoutu.cn/lunacy)
 
 ## 其他
 - [hankqin 的软件工具集](https://soft.hankqin.com/)
