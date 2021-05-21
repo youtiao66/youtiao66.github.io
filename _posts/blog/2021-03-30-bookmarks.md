@@ -27,6 +27,7 @@ toc_icon: "cog"
 - [Glassmorphism 玻璃特效生成器](https://zxuqian.cn/docs/tools/glassmorphism-generator)
   - [backdrop-filter 添加图形效果](https://developer.mozilla.org/zh-CN/docs/Web/CSS/backdrop-filter)
 - [U钙网 - 免费的LOGO在线设计制作工具](http://www.uugai.com/)
+- [Optimizilla - 图像压缩神器](https://imagecompressor.com/zh/)
 
 ## Photoshop
 - [Bezier - 一个帮助掌握钢笔工具的游戏](https://bezier.method.ac/)
@@ -35,6 +36,7 @@ toc_icon: "cog"
 - [Quicker - 您的指尖工具箱](https://getquicker.net/)
 - [轻闪 PDF，PDF 转 Word](https://lightpdf.cn/)
 - [IObit Uninstaller 软件卸载工具](https://www.iobit.com/en/advanceduninstaller.php)
+- [Lunacy - 平面设计软件，与Sketch完全兼容](https://igoutu.cn/lunacy)
 
 ## 其他
 - [hankqin 的软件工具集](https://soft.hankqin.com/)
