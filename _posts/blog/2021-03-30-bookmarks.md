@@ -38,6 +38,9 @@ toc_icon: "cog"
 - [IObit Uninstaller 软件卸载工具](https://www.iobit.com/en/advanceduninstaller.php)
 - [Lunacy - 平面设计软件，与Sketch完全兼容](https://igoutu.cn/lunacy)
 
+## 在线工具
+- [草料二维码](https://cli.im/)
+
 ## 其他
 - [hankqin 的软件工具集](https://soft.hankqin.com/)
 - [精品 Mac 应用分享](https://xclient.info/)
