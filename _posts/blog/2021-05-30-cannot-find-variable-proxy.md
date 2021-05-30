@@ -20,7 +20,10 @@ toc_icon: "cog"
 
 ## 问题
 
-### `Can't find variable: Proxy; [Component] Data Observer Error`
+```js
+// => Error: Can't find variable: Proxy; [Component] Data Observer Error
+```
+
 miniprogram-computed@4.0.3
 
 ```js
