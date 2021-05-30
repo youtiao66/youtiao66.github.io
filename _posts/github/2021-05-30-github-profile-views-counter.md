@@ -14,6 +14,8 @@ toc_icon: "cog"
 
 <!--more-->
 
+![example](https://i.loli.net/2021/05/30/GHjyNkpfR1l5cDz.png)
+
 ## 使用
 ### 创建 `GitHub profile` 仓库
 当你创建一个新的和你的用户名相同名称的项目时，会触发 `GitHub` 魔法。
