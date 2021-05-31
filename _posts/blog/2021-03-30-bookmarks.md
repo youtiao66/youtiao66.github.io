@@ -31,6 +31,8 @@ toc_icon: "cog"
 
 ## Photoshop
 - [Bezier - 一个帮助掌握钢笔工具的游戏](https://bezier.method.ac/)
+- [removebg - 图片背景消除，100% 全自动且免费](https://www.remove.bg/)
+- [PhotoRoom - 自动消除背景并创建专业图片](https://photoroom.com/)
 
 ## Windows 软件
 - [Quicker - 您的指尖工具箱](https://getquicker.net/)
