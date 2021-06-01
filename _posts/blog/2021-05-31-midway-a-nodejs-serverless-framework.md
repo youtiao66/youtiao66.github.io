@@ -90,3 +90,42 @@ Web 中间件是在控制器调用 **之前** 和 **之后（部分）** 调用�
 ## 启动和部署
 ### 使用 Docker 部署
 
+## 基础能力
+### 依赖注入
+### 运行环境
+### 多环境配置
+### 参数校验和转换
+### 生命周期
+### 使用组件
+### 日志
+### 本地调试
+### 测试
+
+## 增强
+### 代码流程控制
+### 方法拦截器（切面）
+### 多框架研发
+### 缓存（Cache）
+### Database（TypeORM）（暂时不用）
+### MongoDB（暂时不用）
+### Swagger（暂时不用）
+### Redis
+
+## EggJS
+
+## Web 技术
+### Cookies
+### Session
+### BodyParser
+### 静态资源（Static File）
+### 跨域 CORS
+
+## 微服务
+### gRPC
+### RabbitMQ（暂时不用）
+### Consul
+
+## WebSocket - SocketIO
+
+## Serverless
+
