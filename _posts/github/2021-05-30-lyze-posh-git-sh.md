@@ -29,6 +29,13 @@ source ~/git-prompt.sh
 PROMPT_COMMAND='__posh_git_ps1 "\u@\h:\w " "\\\$ ";'$PROMPT_COMMAND
 ```
 
+## 为了实现上图所示效果，需要在 `.bashrc` 文件中添加以下代码
+
+```bash
+# => 该方法可以持久化，也可以解决新标签不展示的问题
+export PROMPT_COMMAND='__posh_git_ps1 "\\[\[\e[0;32m\]\u@\h \[\e[0;33m\]\w" " \[\e[1;34m\]\n\$\[\e[0m\] ";'$PROMPT_COMMAND
+```
+
 ## `Star: 311`
 
 ## Unix
