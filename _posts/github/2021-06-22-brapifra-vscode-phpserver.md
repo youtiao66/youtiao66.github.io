@@ -17,8 +17,12 @@ toc_icon: "cog"
 
 ![demo](https://i.loli.net/2021/06/22/dUbfKkSgDGO3eTa.gif)
 
+## 添加 `VS Code` 扩展
+
+`PHP Server`
+
 ## 开始使用
-启动 `PHP server` 的多种方式：
+启动 `PHP Server` 的多种方式：
 
 - `CTRL + SHIFT + P` 然后搜索 `PHP Server: Serve project` 命令
 - 点击 VS Code 编辑器的按钮（右上角的图标）
