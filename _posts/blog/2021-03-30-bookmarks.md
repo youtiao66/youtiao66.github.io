@@ -57,6 +57,7 @@ toc_icon: "cog"
 - [草料二维码](https://cli.im/)
 
 ## 其他
+- [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
 - [hankqin 的软件工具集](https://soft.hankqin.com/)
 - [精品 Mac 应用分享](https://xclient.info/)
 - [ilanyu's Blog](https://blog.lanyus.com/)
