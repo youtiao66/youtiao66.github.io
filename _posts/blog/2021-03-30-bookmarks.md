@@ -24,8 +24,9 @@ toc_icon: "cog"
 
 ## PHP
 - [PHPCMS内容管理系统](https://www.phpcmsv9.cn/)
-- [DouPHP 轻量级企业建站系统](https://www.douphp.com/)
+- [DouPHP - 轻量级企业建站系统](https://www.douphp.com/)
 - [VSCode+Xdebug断点调试PHP](https://www.cnblogs.com/phonecom/p/10340038.html)
+- [PhpStudy - 让天下没有难配的服务器环境，解放运维](https://www.xp.cn/)
 
 ## macOS
 - [Homebrew 清华大学镜像](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)
