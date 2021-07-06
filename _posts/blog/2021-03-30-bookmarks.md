@@ -26,6 +26,8 @@ toc_icon: "cog"
 - [PHPCMS内容管理系统](https://www.phpcmsv9.cn/)
 - [DouPHP - 轻量级企业建站系统](https://www.douphp.com/)
 - [VSCode+Xdebug断点调试PHP](https://www.cnblogs.com/phonecom/p/10340038.html)
+- [phpstorm+Xdebug断点调试PHP](https://my.oschina.net/yearnfar/blog/350051)
+- [windows下配置nginx+php环境](https://www.cnblogs.com/huayangmeng/archive/2011/06/15/2081337.html)
 - [PhpStudy - 让天下没有难配的服务器环境，解放运维](https://www.xp.cn/)
 - [WampServer - a Windows web development environment](https://www.wampserver.com/)
 
