@@ -22,6 +22,9 @@ toc_icon: "cog"
 ### 微信开放社区
 - [Cannot read property 'model' of undefined怎么回事？](https://developers.weixin.qq.com/community/develop/doc/0000c81abd829064c31b20c6656000?jumpto=comment&commentid=000628cc7e8bb015c31b971f9518)
 
+## JavaScript
+- [Android does not correctly scroll on input focus if not body element](https://stackoverflow.com/questions/23757345/android-does-not-correctly-scroll-on-input-focus-if-not-body-element)
+
 ## PHP
 - [PHPCMS内容管理系统](https://www.phpcmsv9.cn/)
 - [DouPHP - 轻量级企业建站系统](https://www.douphp.com/)
