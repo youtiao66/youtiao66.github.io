@@ -24,6 +24,7 @@ toc_icon: "cog"
 
 ## PHP
 - [DouPHP 轻量级企业建站系统](https://www.douphp.com/)
+- [VSCode+Xdebug断点调试PHP](https://www.cnblogs.com/phonecom/p/10340038.html)
 
 ## macOS
 - [Homebrew 清华大学镜像](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)
