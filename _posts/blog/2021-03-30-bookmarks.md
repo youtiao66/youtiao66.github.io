@@ -64,6 +64,7 @@ toc_icon: "cog"
 - [hankqin 的软件工具集](https://soft.hankqin.com/)
 - [精品 Mac 应用分享](https://xclient.info/)
 - [ilanyu's Blog](https://blog.lanyus.com/)
+- [Noven技术生涯经验分享](https://www.novenblog.xin/)
 
 ## 放松一下
 - [请画一个火柴人](https://www.webhek.com/post/draw-a-stickman.html)
