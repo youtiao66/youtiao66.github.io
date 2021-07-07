@@ -65,6 +65,7 @@ toc_icon: "cog"
 - [精品 Mac 应用分享](https://xclient.info/)
 - [ilanyu's Blog](https://blog.lanyus.com/)
 - [Noven技术生涯经验分享](https://www.novenblog.xin/)
+- [发票二维码含义, 及java生成二维码](https://blog.csdn.net/reol_fan/article/details/81182372)
 
 ## 放松一下
 - [请画一个火柴人](https://www.webhek.com/post/draw-a-stickman.html)
