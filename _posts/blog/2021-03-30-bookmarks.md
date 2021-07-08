@@ -56,6 +56,9 @@ toc_icon: "cog"
 - [IObit Uninstaller 软件卸载工具](https://www.iobit.com/en/advanceduninstaller.php)
 - [Lunacy - 平面设计软件，与Sketch完全兼容](https://igoutu.cn/lunacy)
 
+## 软件工具
+- [FFmpeg - A complete, cross-platform solution to record, convert and stream audio and video.](https://ffmpeg.org/)
+
 ## 在线工具
 - [草料二维码](https://cli.im/)
 
