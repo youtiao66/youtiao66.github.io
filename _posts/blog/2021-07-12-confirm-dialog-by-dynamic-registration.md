@@ -4,7 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - MySQL
+  - 微信小程序
 toc: true
 toc_label: "目录"
 toc_icon: "cog"
