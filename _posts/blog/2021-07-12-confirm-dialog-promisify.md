@@ -1,5 +1,5 @@
 ---
-title: "通过动态注册方法简化自定义确认弹窗逻辑"
+title: "自定义确认弹窗逻辑 Promise 化"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
