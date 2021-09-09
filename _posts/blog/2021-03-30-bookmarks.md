@@ -14,6 +14,9 @@ toc_icon: "cog"
 
 <!--more-->
 
+## JavaScript
+- [Android does not correctly scroll on input focus if not body element](https://stackoverflow.com/questions/23757345/android-does-not-correctly-scroll-on-input-focus-if-not-body-element)
+
 ## 微信小程序
 - [behaviors](https://developers.weixin.qq.com/miniprogram/dev/framework/custom-component/behaviors.html)
 - [npm 支持](https://developers.weixin.qq.com/miniprogram/dev/devtools/npm.html)
@@ -22,8 +25,8 @@ toc_icon: "cog"
 ### 微信开放社区
 - [Cannot read property 'model' of undefined怎么回事？](https://developers.weixin.qq.com/community/develop/doc/0000c81abd829064c31b20c6656000?jumpto=comment&commentid=000628cc7e8bb015c31b971f9518)
 
-## JavaScript
-- [Android does not correctly scroll on input focus if not body element](https://stackoverflow.com/questions/23757345/android-does-not-correctly-scroll-on-input-focus-if-not-body-element)
+## 微信公众号
+- [秀米XIUMI - 微信排版编辑器，公众号图文排版工具](https://xiumi.us/)
 
 ## PHP
 - [PHPCMS内容管理系统](https://www.phpcmsv9.cn/)
