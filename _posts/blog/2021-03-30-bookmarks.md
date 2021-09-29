@@ -58,6 +58,7 @@ toc_icon: "cog"
 - [轻闪 PDF，PDF 转 Word](https://lightpdf.cn/)
 - [IObit Uninstaller 软件卸载工具](https://www.iobit.com/en/advanceduninstaller.php)
 - [Lunacy - 平面设计软件，与Sketch完全兼容](https://igoutu.cn/lunacy)
+- [Internet Download Manager: The fastest download accelerator](https://www.internetdownloadmanager.com/)
 
 ## 软件工具
 - [FFmpeg - A complete, cross-platform solution to record, convert and stream audio and video.](https://ffmpeg.org/)
@@ -69,6 +70,7 @@ toc_icon: "cog"
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
 - [hankqin 的软件工具集](https://soft.hankqin.com/)
 - [精品 Mac 应用分享](https://xclient.info/)
+- [果核剥壳 - 还原软件的本质](https://www.ghxi.com/)
 - [ilanyu's Blog](https://blog.lanyus.com/)
 - [Noven技术生涯经验分享](https://www.novenblog.xin/)
 - [发票二维码含义, 及java生成二维码](https://blog.csdn.net/reol_fan/article/details/81182372)
