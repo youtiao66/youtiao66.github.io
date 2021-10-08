@@ -24,6 +24,26 @@ npm:  v6.14.12
 yarn: v1.15.2
 ```
 
+**依赖**
+
+```
+{
+  "devDependencies": {
+    "husky": "^7.0.0",
+    "lint-staged": "^11.2.0",
+    "prettier": "^2.4.1"
+  },
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "lint-staged": {
+    "src/**/*.css": [
+      "prettier --write"
+    ]
+  }
+}
+```
+
 ## 使用
 
 > [husky - 简化原生 Git hooks](https://github.com/typicode/husky)
