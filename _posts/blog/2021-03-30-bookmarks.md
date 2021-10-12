@@ -40,6 +40,9 @@ toc_icon: "cog"
 ## macOS
 - [Homebrew 清华大学镜像](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)
 
+## linux
+- [rz上传文件乱码](https://www.cnblogs.com/lucky-heng/p/10679704.html)
+
 ## UI设计
 - [Color Hunt - Popular Schemes for Designers and Artists](https://colorhunt.co/palettes/popular)
 - [Glassmorphism 玻璃特效生成器](https://zxuqian.cn/docs/tools/glassmorphism-generator)
