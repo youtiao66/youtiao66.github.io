@@ -71,6 +71,7 @@ toc_icon: "cog"
 
 ## 在线工具
 - [草料二维码](https://cli.im/)
+- [emoji 百科全书](https://emojipedia.org/)
 
 ## 其他
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
