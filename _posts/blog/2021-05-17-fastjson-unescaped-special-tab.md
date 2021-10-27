@@ -4,8 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - JSON
-  - fastjson
+  - JavaScript
 toc: true
 toc_label: "目录"
 toc_icon: "cog"

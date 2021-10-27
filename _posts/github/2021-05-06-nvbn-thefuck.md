@@ -4,9 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - GitHub
 tags:
-  - bash
-  - command
-  - thefuck
+  - Tool
 toc: true
 toc_label: "目录"
 toc_icon: "cog"

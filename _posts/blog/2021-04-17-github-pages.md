@@ -4,10 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - GitHub Pages
-  - jekyll
-  - Minimal Mistakes
-  - Blog
+  - GitHub
 toc: true
 toc_label: "目录"
 toc_icon: "cog"

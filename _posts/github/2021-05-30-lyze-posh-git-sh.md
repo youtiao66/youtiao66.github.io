@@ -4,9 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - GitHub
 tags:
-  - PowerShell
-  - posh-git
-  - git
+  - Git
 toc: true
 toc_label: "目录"
 toc_icon: "cog"

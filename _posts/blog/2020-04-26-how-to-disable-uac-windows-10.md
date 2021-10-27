@@ -4,7 +4,6 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - UAC
   - Windows
 ---
 

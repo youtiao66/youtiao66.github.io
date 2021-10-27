@@ -5,7 +5,6 @@ categories:
   - Blog
 tags:
   - Chrome
-  - Cookie
 toc: true
 toc_label: "目录"
 toc_icon: "cog"

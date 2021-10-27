@@ -4,7 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - GitHub
 tags:
-  - Nodejs
+  - Node.js
 toc: true
 toc_label: "目录"
 toc_icon: "cog"

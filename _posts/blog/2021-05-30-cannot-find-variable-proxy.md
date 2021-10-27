@@ -5,8 +5,6 @@ categories:
   - Blog
 tags:
   - 微信小程序
-  - Proxy
-  - polyfill
 toc: true
 toc_label: "目录"
 toc_icon: "cog"

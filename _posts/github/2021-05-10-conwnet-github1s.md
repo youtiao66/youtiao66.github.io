@@ -4,8 +4,6 @@ excerpt_separator: "<!--more-->"
 categories:
   - GitHub
 tags:
-  - GitHub
-  - github1s
   - VS Code
 toc: true
 toc_label: "目录"
