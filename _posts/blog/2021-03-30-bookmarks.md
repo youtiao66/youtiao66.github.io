@@ -67,6 +67,7 @@ toc_icon: "cog"
 - [Internet Download Manager: The fastest download accelerator](https://www.internetdownloadmanager.com/)
 
 ## 软件工具
+- [华为云镜像](https://mirrors.huaweicloud.com/)
 - [Selenium - 浏览器自动化项目](https://www.selenium.dev/zh-cn/documentation/)
 - [FFmpeg - A complete, cross-platform solution to record, convert and stream audio and video.](https://ffmpeg.org/)
 
