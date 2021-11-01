@@ -68,7 +68,8 @@ toc_icon: "cog"
 
 ## 软件工具
 - [华为云镜像](https://mirrors.huaweicloud.com/)
-- [Selenium - 浏览器自动化项目](https://www.selenium.dev/zh-cn/documentation/)
+- [Selenium - 浏览器自动化项目](https://www.selenium.dev/)
+- [appium - 原生、混合和移动Web自动化项目](https://appium.io/)
 - [FFmpeg - A complete, cross-platform solution to record, convert and stream audio and video.](https://ffmpeg.org/)
 
 ## 在线工具
