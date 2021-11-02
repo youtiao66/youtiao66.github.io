@@ -47,6 +47,7 @@ toc_icon: "cog"
 | git | [官网](https://git-scm.com/) |
 | 微信开发者工具 | [官网](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html) |
 | Navicat Premium | [官网](https://www.navicat.com.cn/products/navicat-premium) |
+| Snipaste | [官网](https://www.snipaste.com/) |
 | Wox | [官网](https://github.com/Wox-launcher/Wox/releases) |
 | COSBrowser | [官网](https://cloud.tencent.com/document/product/436/11366) |
 | Sourcetree | [官网](https://www.sourcetreeapp.com/) |
