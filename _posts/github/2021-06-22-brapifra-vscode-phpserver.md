@@ -34,5 +34,8 @@ toc_icon: "cog"
 
 该扩展需要安装 PHP。[下载地址](https://www.php.net/downloads.php)
 
+## `VS Code + PHP` 扩展推荐
+> [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
+
 ## 参考
 > [brapifra/vscode-phpserver](https://github.com/brapifra/vscode-phpserver)
