@@ -42,6 +42,8 @@ worksheet.addRows([
 ]);
 // 写入 buffer
 const buffer = await workbook.xlsx.writeBuffer();
+// 写入文件（写入文件和写入 buffer 二选一即可）
+await workbook.xlsx.writeFile(filename);
 ```
 
 ## 功能
