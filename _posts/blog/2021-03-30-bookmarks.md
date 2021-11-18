@@ -18,6 +18,10 @@ toc_icon: "cog"
 - [Regexper - 正则可视化](https://regexper.com/)
 - [Android does not correctly scroll on input focus if not body element](https://stackoverflow.com/questions/23757345/android-does-not-correctly-scroll-on-input-focus-if-not-body-element)
 
+## React
+
+- [Antd 多标签页模式](https://github.com/ant-design/ant-design-pro/issues/220)
+
 ## 微信小程序
 - [behaviors](https://developers.weixin.qq.com/miniprogram/dev/framework/custom-component/behaviors.html)
 - [npm 支持](https://developers.weixin.qq.com/miniprogram/dev/devtools/npm.html)
