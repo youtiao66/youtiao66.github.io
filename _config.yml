@@ -123,6 +123,9 @@ defaults:
       comments: false
       sidebar:
         nav: "esguidecn"
+      toc: true
+      toc_label: "目录"
+      toc_icon: "cog"
 
 category_archive:
   type: liquid
