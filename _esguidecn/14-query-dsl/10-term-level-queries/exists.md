@@ -1,7 +1,7 @@
 ---
 title: "Exists 查询"
 excerpt: "返回包含指定字段索引值的文档"
-permalink: /query-dsl-exists-query/
+permalink: /esguidecn/query-dsl-exists-query/
 ---
 
 返回包含指定字段索引值的文档

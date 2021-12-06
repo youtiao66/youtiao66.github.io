@@ -83,6 +83,7 @@ footer:
 
 collections:
   esguidecn:
+    label: "Elasticsearch 使用指南 [7.15] 中文版"
     output: true
     permalink: /:collection/:path/
 

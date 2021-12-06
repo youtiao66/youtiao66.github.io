@@ -13,10 +13,10 @@ main:
 # esguidecn links
 esguidecn:
   - title: Index
-    url: /index/
+    url: /esguidecn/index/
   - title: Query DSL
     children:
       - title: "Term-level queries"
         children:
           - title: "Exists 存在查询"
-            url: /query-dsl-exists-query/
+            url: /esguidecn/query-dsl-exists-query/
