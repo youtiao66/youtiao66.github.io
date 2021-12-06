@@ -100,6 +100,24 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _esguidecn
+  - scope:
+      path: ""
+      type: esguidecn
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "esguidecn"
+
+collections:
+  esguidecn:
+    output: true
+    permalink: /:collection/:path/
 
 category_archive:
   type: liquid
