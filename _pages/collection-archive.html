@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Posts by Collection"
+title: "按专栏分类"
 permalink: /collections/
 author_profile: true
 ---
 
-{% capture written_label %}'None'{% endcapture %}
+{% capture written_label %}'暂无数据'{% endcapture %}
 
 {% for collection in site.collections %}
   {% unless collection.output == false or collection.label == "posts" %}

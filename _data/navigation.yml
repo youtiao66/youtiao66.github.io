@@ -7,5 +7,16 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
-  - title: "Collections"
+  - title: "专栏"
     url: /collections/
+
+# esguidecn links
+esguidecn:
+  - title: Index
+    url: /index/
+  - title: Query DSL
+    children:
+      - title: "Term-level queries"
+        children:
+          - title: "Exists 存在查询"
+            url: /query-dsl-exists-query/
