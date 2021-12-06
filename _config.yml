@@ -81,6 +81,11 @@ footer:
       icon: "fas fa-fw fa-link"
       url: "https://youtiao66.github.io/"
 
+collections:
+  esguidecn:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _posts
   - scope:
@@ -113,11 +118,6 @@ defaults:
       comments: false
       sidebar:
         nav: "esguidecn"
-
-collections:
-  esguidecn:
-    output: true
-    permalink: /:collection/:path/
 
 category_archive:
   type: liquid
