@@ -81,11 +81,12 @@ toc_icon: "cog"
 - [zety - 在线快速制作简历](https://zety.com/)
 - [白描网页版 - 图片文字提取](https://web.baimiaoapp.com/)
 - [Aconvert - 在线转换文档，图像，视频，音频文件](https://www.aconvert.com/)
+- [GitHub Proxy 代理加速](https://ghproxy.com/)
 
 ### 搜索引擎
 
 - [必应 Bing - 让搜索更加方便快捷](https://www.bing.com/)
-- [DuckDuckGo - 隐私保护，化繁为简](https://duckduckgo.com/)
+- [Yandex - 俄罗斯第一大搜索引擎](https://yandex.com/)
 
 ## 其他
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
