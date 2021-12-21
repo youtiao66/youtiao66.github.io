@@ -40,4 +40,8 @@ export PROMPT_COMMAND='__posh_git_ps1 "\\[\[\e[0;32m\]\u@\h \[\e[0;33m\]\w" " \[
 > [lyze/posh-git-sh](https://github.com/lyze/posh-git-sh)
 
 ## Windows
+> ***PowerShell Gallery***安装方式如果下载失败或超时，建议通过***从源码方式安装***
+
 > [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git)
+
+> [在 PowerShell 中使用 Git](https://git-scm.com/book/zh/v2/%E9%99%84%E5%BD%95-A%3A-%E5%9C%A8%E5%85%B6%E5%AE%83%E7%8E%AF%E5%A2%83%E4%B8%AD%E4%BD%BF%E7%94%A8-Git-Git-%E5%9C%A8-PowerShell-%E4%B8%AD%E4%BD%BF%E7%94%A8-Git)
