@@ -46,5 +46,23 @@ git branch [enter/↑/↓/ctrl+c]
 ## Star
 ![star](https://i.loli.net/2021/05/06/6mvqHk7sQKJbwNF.png)
 
+## 常见问题
+
+```
+c:\python3\lib\site-packages\win_unicode_console\__init__.py:31: RuntimeWarning: sys.stdin.encoding == 'utf-8', whereas sys.stdout.encoding == 'ascii', readline hook consumer may assume they are the same
+  readline_hook.enable(use_pyreadline=use_pyreadline)
+```
+
+> [Shell aliases](https://github.com/nvbn/thefuck/wiki/Shell-aliases#powershell)
+
+```
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb2 in position 6: invalid start byte
+```
+
+- 添加全局环境变量`PYTHONIOENCODING=utf-8`
+- 在`$PROFILE`中添加`[Console]::OutputEncoding = [System.Text.Encoding]::UTF8`
+
+> [UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb2 in position 6: invalid start byte](https://github.com/nvbn/thefuck/issues/673)
+
 ## 参考
 > [nvbn/thefuck](https://github.com/nvbn/thefuck)
