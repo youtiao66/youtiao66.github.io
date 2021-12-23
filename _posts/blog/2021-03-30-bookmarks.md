@@ -95,6 +95,7 @@ toc_icon: "cog"
 - [果核剥壳 - 还原软件的本质](https://www.ghxi.com/)
 - [ilanyu's Blog](https://blog.lanyus.com/)
 - [Noven技术生涯经验分享](https://www.novenblog.xin/)
+- [税收分类编码查询](https://www.acc5.com/tools/tax_guid/)
 - [发票二维码含义, 及java生成二维码](https://blog.csdn.net/reol_fan/article/details/81182372)
 
 ## 放松一下

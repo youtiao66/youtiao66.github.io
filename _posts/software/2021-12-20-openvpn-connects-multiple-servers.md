@@ -18,6 +18,8 @@ OpenVPN 同时连接多个 VPN 服务器。不想来回的切换连接点，同�
 
 官方社区下载: [https://openvpn.net/community-downloads/](https://openvpn.net/community-downloads/)
 
+需要下载官方社区版本`OpenVPN 2.x`
+
 ## 添加虚拟网卡
 
 在该目录下执行命令：`C:\Program Files\OpenVPN\bin`
