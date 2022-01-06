@@ -58,6 +58,7 @@ author:
   name   : "youtiao66"
   avatar : "/assets/images/avatar.jpg"
   bio    : "乘风破浪的前端攻城狮"
+  location : "四川成都"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -68,6 +69,12 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://youtiao66.github.io/"
+
+sidebar:
+  title     : "微信公众号"
+  image     : "/assets/images/avatar.jpg"
+  image_alt : "乘风破浪的Coder"
+  text      : "乘风破浪的Coder"
 
 footer:
   links:
