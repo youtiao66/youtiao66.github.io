@@ -106,6 +106,8 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar:
+        nav: "sidebar"
       toc: true
       toc_label: "目录"
       toc_icon: "cog"
