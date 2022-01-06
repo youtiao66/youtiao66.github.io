@@ -71,10 +71,10 @@ author:
       url: "https://youtiao66.github.io/"
 
 sidebar:
-  title     : "微信公众号"
-  image     : "/assets/images/avatar.jpg"
-  image_alt : "乘风破浪的Coder"
-  text      : "乘风破浪的Coder"
+  - title     : "微信公众号"
+    image     : "/assets/images/avatar.jpg"
+    image_alt : "乘风破浪的Coder"
+    text      : "乘风破浪的Coder"
 
 footer:
   links:
