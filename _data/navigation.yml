@@ -10,6 +10,12 @@ main:
   - title: "专栏"
     url: /collections/
 
+sidebar:
+  - title     : "微信公众号"
+    image     : "/assets/images/avatar.jpg"
+    image_alt : "乘风破浪的Coder"
+    text      : "乘风破浪的Coder"
+
 # esguidecn links
 esguidecn:
   - title: "开始使用"
