@@ -107,7 +107,10 @@ defaults:
       share: true
       related: true
       sidebar:
-        nav: "sidebar"
+      - title     : "微信公众号"
+        image     : "/assets/images/avatar.jpg"
+        image_alt : "乘风破浪的Coder"
+        text      : "乘风破浪的Coder"
       toc: true
       toc_label: "目录"
       toc_icon: "cog"
