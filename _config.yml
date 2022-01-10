@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "youtiao66"
   avatar : "/assets/images/avatar.jpg"
-  bio    : "乘风破浪的前端攻城狮"
+  bio    : "微信公众号《乘风破浪的Coder》"
   location : "四川成都"
   links:
     - label: "GitHub"
@@ -66,7 +66,7 @@ author:
     - label: "978568519@qq.com"
       icon: "fas fa-fw fa-envelope"
       url: "javascript:void"
-    - label: "Website"
+    - label: "我的博客"
       icon: "fas fa-fw fa-link"
       url: "https://youtiao66.github.io/"
 
@@ -84,7 +84,7 @@ footer:
     - label: "978568519@qq.com"
       icon: "fas fa-fw fa-envelope"
       url: "javascript:void"
-    - label: "Website"
+    - label: "我的博客"
       icon: "fas fa-fw fa-link"
       url: "https://youtiao66.github.io/"
 
