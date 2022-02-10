@@ -40,6 +40,8 @@ toc_icon: "cog"
 
 ## macOS
 - [Homebrew 清华大学镜像](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)
+- [精品 Mac 应用分享](https://xclient.info/)
+- [MacWk - 精品mac软件下载](https://macwk.com/)
 
 ## linux
 - [rz上传文件乱码](https://www.cnblogs.com/lucky-heng/p/10679704.html)
@@ -91,7 +93,6 @@ toc_icon: "cog"
 ## 其他
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
 - [hankqin 的软件工具集](https://soft.hankqin.com/)
-- [精品 Mac 应用分享](https://xclient.info/)
 - [果核剥壳 - 还原软件的本质](https://www.ghxi.com/)
 - [ilanyu's Blog](https://blog.lanyus.com/)
 - [Noven技术生涯经验分享](https://www.novenblog.xin/)
