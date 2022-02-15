@@ -18,15 +18,20 @@ toc_icon: "cog"
 - [Regexper - 正则可视化](https://regexper.com/)
 - [Android does not correctly scroll on input focus if not body element](https://stackoverflow.com/questions/23757345/android-does-not-correctly-scroll-on-input-focus-if-not-body-element)
 
-## 微信小程序
+## 微信
+
+**微信小程序**
+
 - [behaviors](https://developers.weixin.qq.com/miniprogram/dev/framework/custom-component/behaviors.html)
 - [npm 支持](https://developers.weixin.qq.com/miniprogram/dev/devtools/npm.html)
 - [自定义分析](https://developers.weixin.qq.com/miniprogram/analysis/custom/)
 
-### 微信开放社区
+**微信开放社区**
+
 - [Cannot read property 'model' of undefined怎么回事？](https://developers.weixin.qq.com/community/develop/doc/0000c81abd829064c31b20c6656000?jumpto=comment&commentid=000628cc7e8bb015c31b971f9518)
 
-## 微信公众号
+**微信公众号**
+
 - [秀米XIUMI - 微信排版编辑器，公众号图文排版工具](https://xiumi.us/)
 
 ## PHP
