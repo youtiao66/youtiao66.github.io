@@ -70,7 +70,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://youtiao66.github.io/"
     - label: "我的书签"
-      icon: "fa-solid fa-bookmark"
+      icon: "fas fa-fw fa-bookmark"
       url: "https://youtiao66.github.io/bookmarks/"
 
 sidebar:
