@@ -1,8 +1,7 @@
 ---
+permalink: /bookmarks/
 title: "youtiao66 的个人书签"
 excerpt_separator: "<!--more-->"
-categories:
-  - Blog
 tags:
   - bookmark
 toc: true
