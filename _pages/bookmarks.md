@@ -1,8 +1,7 @@
 ---
+permalink: /bookmarks/
 title: "youtiao66 的个人书签"
 excerpt_separator: "<!--more-->"
-categories:
-  - Blog
 tags:
   - bookmark
 toc: true
@@ -18,15 +17,20 @@ toc_icon: "cog"
 - [Regexper - 正则可视化](https://regexper.com/)
 - [Android does not correctly scroll on input focus if not body element](https://stackoverflow.com/questions/23757345/android-does-not-correctly-scroll-on-input-focus-if-not-body-element)
 
-## 微信小程序
+## 微信
+
+**微信小程序**
+
 - [behaviors](https://developers.weixin.qq.com/miniprogram/dev/framework/custom-component/behaviors.html)
 - [npm 支持](https://developers.weixin.qq.com/miniprogram/dev/devtools/npm.html)
 - [自定义分析](https://developers.weixin.qq.com/miniprogram/analysis/custom/)
 
-### 微信开放社区
+**微信开放社区**
+
 - [Cannot read property 'model' of undefined怎么回事？](https://developers.weixin.qq.com/community/develop/doc/0000c81abd829064c31b20c6656000?jumpto=comment&commentid=000628cc7e8bb015c31b971f9518)
 
-## 微信公众号
+**微信公众号**
+
 - [秀米XIUMI - 微信排版编辑器，公众号图文排版工具](https://xiumi.us/)
 
 ## PHP
@@ -40,6 +44,8 @@ toc_icon: "cog"
 
 ## macOS
 - [Homebrew 清华大学镜像](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)
+- [精品 Mac 应用分享](https://xclient.info/)
+- [MacWk - 精品mac软件下载](https://macwk.com/)
 
 ## linux
 - [rz上传文件乱码](https://www.cnblogs.com/lucky-heng/p/10679704.html)
@@ -82,16 +88,17 @@ toc_icon: "cog"
 - [白描网页版 - 图片文字提取](https://web.baimiaoapp.com/)
 - [Aconvert - 在线转换文档，图像，视频，音频文件](https://www.aconvert.com/)
 - [GitHub Proxy 代理加速](https://ghproxy.com/)
+- [Autoprefixer CSS online](https://autoprefixer.github.io/)
+- [SMMS 图床 - Simple Free Image Hosting](https://sm.ms/)
+- [ImgURL免费图床](https://imgurl.org/)
 
 ### 搜索引擎
 
 - [必应 Bing - 让搜索更加方便快捷](https://www.bing.com/)
-- [Yandex - 俄罗斯第一大搜索引擎](https://yandex.com/)
 
 ## 其他
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
 - [hankqin 的软件工具集](https://soft.hankqin.com/)
-- [精品 Mac 应用分享](https://xclient.info/)
 - [果核剥壳 - 还原软件的本质](https://www.ghxi.com/)
 - [ilanyu's Blog](https://blog.lanyus.com/)
 - [Noven技术生涯经验分享](https://www.novenblog.xin/)

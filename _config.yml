@@ -69,6 +69,9 @@ author:
     - label: "我的博客"
       icon: "fas fa-fw fa-link"
       url: "https://youtiao66.github.io/"
+    - label: "我的书签"
+      icon: "fas fa-fw fa-bookmark"
+      url: "https://youtiao66.github.io/bookmarks/"
 
 sidebar:
   - title     : "微信公众号"
