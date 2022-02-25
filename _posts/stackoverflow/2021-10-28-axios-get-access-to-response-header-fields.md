@@ -1,16 +1,14 @@
 ---
 title: "Axios 在 CORS 跨域时未获取到部分 response headers"
-excerpt_separator: "<!--more-->"
 categories:
   - Stack Overflow
 tags:
   - HTTP
-toc: true
-toc_label: "目录"
-toc_icon: "cog"
 ---
 
 当我使用 Axios 时，未能获取到 response headers 中的分页信息 Page 和 Total. 而通过浏览器开发者工具能够明确获取到该响应头信息，百思不得其解
+
+<!--more-->
 
 ## 问题
 
