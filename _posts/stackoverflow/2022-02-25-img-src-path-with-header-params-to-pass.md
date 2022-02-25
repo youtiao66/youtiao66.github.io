@@ -1,7 +1,7 @@
 ---
 title: "img 图片标签给 src 请求添加 headers 参数"
 categories:
-  - Stack Overflow
+  - StackOverflow
 tags:
   - HTTP
 ---

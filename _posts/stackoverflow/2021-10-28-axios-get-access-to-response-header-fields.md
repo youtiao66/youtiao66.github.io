@@ -1,7 +1,7 @@
 ---
 title: "Axios 在 CORS 跨域时未获取到部分 response headers"
 categories:
-  - Stack Overflow
+  - StackOverflow
 tags:
   - HTTP
 ---
