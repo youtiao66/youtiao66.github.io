@@ -19,6 +19,8 @@ toc_icon: "cog"
 
 ## 微信
 
+- [微信支付 - 点金计划](https://pay.weixin.qq.com/wiki/doc/apiv3_partner/open/pay/chapter3_5_1.shtml)
+
 **微信小程序**
 
 - [behaviors](https://developers.weixin.qq.com/miniprogram/dev/framework/custom-component/behaviors.html)
