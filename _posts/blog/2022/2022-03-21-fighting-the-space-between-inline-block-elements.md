@@ -3,7 +3,7 @@ title: "【译】干掉行内块级元素之间的空隙"
 categories:
   - Blog
 tags:
-  - CSS
+  - css
 ---
 
 经过再寻常不过的方式格式化的多个行内块级元素之间会出现空隙
@@ -20,7 +20,7 @@ tags:
 </nav>
 ```
 
-```CSS
+```css
 nav a {
   display: inline-block;
   padding: 5px;
@@ -79,7 +79,7 @@ nav a {
 ## 负的外边距
 可以使用负的 4px 外边距方式偷偷地干掉元素之间的空隙（具体大小可能需要根据父元素的字体大小做适当调整）。显然在老版本 IE(6 & 7) 中这仍然是有问题的，但如果你根本不关心这些浏览器的话你就可以保持 HTML 代码格式化的整洁。
 
-```CSS
+```css
 nav a {
   display: inline-block;
   margin-right: -4px;
