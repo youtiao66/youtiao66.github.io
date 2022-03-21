@@ -24,6 +24,7 @@ search: true
 repository: youtiao66/youtiao66.github.io
 show_date: true
 date_format: "%Y-%m-%d"
+locale: "zh-CN"
 
 # Build settings
 markdown: kramdown
