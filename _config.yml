@@ -20,6 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: youtiao66
 minimal_mistakes_skin: default
 search: true
+repository: youtiao66/youtiao66.github.io
 
 # Build settings
 markdown: kramdown
