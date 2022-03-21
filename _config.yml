@@ -19,8 +19,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   乘风破浪的博客，乘风破浪的Coder，乘风破浪的前端攻城狮，乘风破浪的youtiao66
 github_username: youtiao66
 minimal_mistakes_skin: default
+breadcrumbs: true
 search: true
 repository: youtiao66/youtiao66.github.io
+show_date: true
+date_format: "%Y-%m-%d"
 
 # Build settings
 markdown: kramdown
