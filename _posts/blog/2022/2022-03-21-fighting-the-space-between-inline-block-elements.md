@@ -1,5 +1,5 @@
 ---
-title: "【译】干掉行内块级元素之间的空隙"
+title: "干掉行内块级元素之间的空隙"
 categories:
   - Blog
 tags:
