@@ -1,12 +1,12 @@
 ---
-title: "VSCode + Vue2 如何解决部分模块无法 Ctrl + 鼠标左键点击 跳转到定义的问题？"
+title: "VS Code + Vue2 如何解决部分模块无法 Ctrl + 鼠标左键点击 跳转到定义的问题？"
 categories:
   - Blog
 tags:
-  - VSCode
+  - VS Code
 ---
 
-在使用 VSCode + Vue2 + Webpack + JavaScript 开发过程中，总会遇到一部分模块无法通过 *Ctrl + 鼠标左键点击* 跳转到文件定义的问题，那到底是为什么？怎么解决呢？
+在使用 VS Code + Vue2 + Webpack + JavaScript 开发过程中，总会遇到一部分模块无法通过 *Ctrl + 鼠标左键点击* 跳转到文件定义的问题，那到底是为什么？怎么解决呢？
 
 <!--more-->
 
@@ -14,12 +14,12 @@ tags:
 
 ### 基本开发环境
 
-- VSCode
+- VS Code
 - Vue2
 - Webpack
 - JavaScript
 
-> VSCode 已安装 [Vetur][Vetur] 插件
+> VS Code 已安装 [Vetur][Vetur] 插件
 
 ### `Webpack` 路径别名已配置
 
@@ -126,9 +126,9 @@ import Navbar from '@/components/Navbar'
 
 一部分人主张: `vue` 文件是 `js`, `json` 以外的其他文件，应当参考 `css` 或 `less` 等样式文件模块加载时指明文件扩展名。其中就包括 `Vetur` 插件的开发团队，所以 `@/components/Navbar` 暂时无法跳转到定义。
 
-另一部分人希望: `vue` 文件也可以像 `js`, `json` 一样, 省略 `index.vue` 的写法后仍然可以直接跳转到文件定义。比如 `Webpack + vue-loader` 就实现了该写法的编译。不要担心，我们可以通过安装另一个 VSCode 插件解决这个问题，这个插件就是[《别名路径跳转》][vue-alias-skip]，它还可以解决上一个示例 `example.js` 中 `@/utils` 这样的推荐写法不可以通过 ctrl + 鼠标左键单机 跳转到定义的问题
+另一部分人希望: `vue` 文件也可以像 `js`, `json` 一样, 省略 `index.vue` 的写法后仍然可以直接跳转到文件定义。比如 `Webpack + vue-loader` 就实现了该写法的编译。不要担心，我们可以通过安装另一个 VS Code 插件解决这个问题，这个插件就是[《别名路径跳转》][vue-alias-skip]，它还可以解决上一个示例 `example.js` 中 `@/utils` 这样的推荐写法不可以通过 ctrl + 鼠标左键单机 跳转到定义的问题
 
-> [VSCode 别名路径跳转插件][vue-alias-skip]
+> [VS Code 别名路径跳转插件][vue-alias-skip]
 
 > [Vetur 推荐指定扩展名的 Issue][vetur-issuecomment]
 
