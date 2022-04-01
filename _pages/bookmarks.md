@@ -22,6 +22,12 @@ toc_icon: "cog"
 
 - [微信支付 - 点金计划](https://pay.weixin.qq.com/wiki/doc/apiv3_partner/open/pay/chapter3_5_1.shtml)
 
+**微信公众号**
+
+- [Markdown | 让排版变 Nice](https://editor.mdnice.com/)
+- [微信 Markdown 编辑器 | Doocs 开源社区](https://doocs.github.io/md/)
+- [秀米XIUMI - 微信排版编辑器，公众号图文排版工具](https://xiumi.us/)
+
 **微信小程序**
 
 - [behaviors](https://developers.weixin.qq.com/miniprogram/dev/framework/custom-component/behaviors.html)
@@ -31,10 +37,6 @@ toc_icon: "cog"
 **微信开放社区**
 
 - [Cannot read property 'model' of undefined怎么回事？](https://developers.weixin.qq.com/community/develop/doc/0000c81abd829064c31b20c6656000?jumpto=comment&commentid=000628cc7e8bb015c31b971f9518)
-
-**微信公众号**
-
-- [秀米XIUMI - 微信排版编辑器，公众号图文排版工具](https://xiumi.us/)
 
 ## PHP
 - [PHPCMS内容管理系统](https://www.phpcmsv9.cn/)
