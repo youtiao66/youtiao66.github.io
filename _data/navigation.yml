@@ -1,5 +1,5 @@
 main:
-  - title: "年份"
+  - title: "时间"
     url: /posts/
   - title: "分类"
     url: /categories/

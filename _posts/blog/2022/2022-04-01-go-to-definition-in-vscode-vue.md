@@ -12,7 +12,7 @@ tags:
 
 ## 开发环境
 
-**基本开发环境**
+### 基本开发环境
 
 - VSCode
 - Vue2
@@ -21,7 +21,7 @@ tags:
 
 > VSCode 已安装 [Vetur][Vetur] 插件
 
-**`Webpack` 路径别名已配置**
+### `Webpack` 路径别名已配置
 
 ```js
 {
@@ -57,7 +57,7 @@ tags:
 }
 ```
 
-**`jsconfig.json` 已配置**
+### `jsconfig.json` 已配置
 
 ```json
 {
@@ -74,10 +74,10 @@ tags:
 }
 ```
 
-**基本现状**
+### 基本现状
 
-- 项目运行正常
-- 编译一切正常
+- 项目运行正常✅
+- 编译一切正常✅
 
 
 
@@ -96,9 +96,9 @@ tags:
 ```js
 // example.js
 
-// => recommand 但是不可以通过 ctrl + 鼠标左键单机 跳转到定义
+// => ✅ recommand 但是不可以通过 ctrl + 鼠标左键单机 跳转到定义
 import utils from '@/utils'
-// => not recommand 但是可以
+// => 🚫 not recommand 但是可以
 import utils from '@/utils/index'
 ```
 
@@ -107,9 +107,9 @@ import utils from '@/utils/index'
 ```js
 // example.vue
 
-// => recommand 可以通过 ctrl + 鼠标左键单机 跳转到定义
+// => ✅ recommand 可以通过 ctrl + 鼠标左键单机 跳转到定义
 import utils from '@/utils'
-// => not recommand
+// => 🚫 not recommand
 import utils from '@/utils/index'
 
 
