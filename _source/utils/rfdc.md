@@ -16,7 +16,7 @@ permalink: /source/utils/rfdc/
 
 ## 源码
 
-```JavaScript
+```js
 module.exports = function deepClone (target) {
   if (typeof target !== 'object' || target === null) return target
   if (target instanceof Date) return new Date(target)
