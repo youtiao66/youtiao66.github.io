@@ -1,6 +1,6 @@
 ---
 title: "从 rfdc - Really Fast Deep Clone 分析深度克隆原理"
-permalink: /source/rfdc/
+permalink: /source/utils/rfdc/
 ---
 
 我比较倾向于一个依赖库只做一件事情，并且零依赖。这样有助于源码分析和学习。接下来从 rfdc - Really Fast Deep Clone 分析深度克隆原理

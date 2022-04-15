@@ -18,5 +18,7 @@ sidebar:
 
 # source links
 source:
-  - title: "deepClone"
-    url: /source/rfdc/
+  - title: "Utils"
+    children:
+      - title: "deepClone"
+        url: /source/utils/rfdc/
