@@ -97,8 +97,8 @@ footer:
       url: "https://youtiao66.github.io/"
 
 collections:
-  esguidecn:
-    label: "Elasticsearch 使用指南 [7.15] 中文版"
+  source:
+    label: "源码分析"
     output: true
     permalink: /:collection/:path/
 
@@ -126,10 +126,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _esguidecn
+  # _source
   - scope:
       path: ""
-      type: esguidecn
+      type: source
     values:
       layout: single
       author_profile: false
@@ -138,7 +138,7 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "esguidecn"
+        nav: "source"
       toc: true
       toc_label: "目录"
       toc_icon: "cog"

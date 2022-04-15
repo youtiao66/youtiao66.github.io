@@ -16,13 +16,7 @@ sidebar:
     image_alt : "乘风破浪的Coder"
     text      : "乘风破浪的Coder"
 
-# esguidecn links
-esguidecn:
-  - title: "开始使用"
-    children:
-      - title: "介绍"
-        url: /esguidecn/index/
-  - title: Query DSL
-    children:
-      - title: "Exists 存在查询"
-        url: /esguidecn/query-dsl-exists-query/
+# source links
+source:
+  - title: "deepClone"
+    url: /source/rfdc/
