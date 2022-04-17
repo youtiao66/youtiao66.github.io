@@ -8,6 +8,8 @@ tags:
 
 对十进制和二进制的相互转换方式一直没有十分清晰，今天就重新梳理一下并通过图片来快速记忆转换方法。
 
+<!--more-->
+
 ## 二进制数转换成十进制数
 由二进制数转换成十进制数的基本做法是，把二进制数首先写成加权系数展开式，然后按十进制加法规则求和。这种做法称为"按权相加"法。
 
@@ -88,9 +90,9 @@ tags:
 
 
 
-[binary-to-decimal]: https://youtiao66.github.io/assets/images/2022/binary-to-decimal.png
-[decimal-to-binary]: https://youtiao66.github.io/assets/images/2022/decimal-to-binary.png
-[decimal-decimals-to-binary-fractions]: https://youtiao66.github.io/assets/images/2022/decimal-decimals-to-binary-fractions.png
+[binary-to-decimal]: https://youtiao66.github.io/assets/images/posts/2022/binary-to-decimal.png
+[decimal-to-binary]: https://youtiao66.github.io/assets/images/posts/2022/decimal-to-binary.png
+[decimal-decimals-to-binary-fractions]: https://youtiao66.github.io/assets/images/posts/2022/decimal-decimals-to-binary-fractions.png
 
 [runoob-w3cnote]: https://www.runoob.com/w3cnote/decimal-decimals-are-converted-to-binary-fractions.html
 [cnblogs-article]: https://www.cnblogs.com/xkfz007/articles/2590472.html
