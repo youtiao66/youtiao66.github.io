@@ -38,7 +38,7 @@ tags:
 
 例如把（0.8125）转换为二进制小数。
 
-![十进制整数转换为二进制整数][decimal-decimals-to-binary-fractions]
+![十进制小数转换为二进制小数][decimal-decimals-to-binary-fractions]
 
 例如：
 
