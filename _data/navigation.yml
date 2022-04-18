@@ -20,5 +20,7 @@ sidebar:
 source:
   - title: "Utils"
     children:
-      - title: "deepClone"
+      - title: "isEqual"
+        url: /source/utils/fast-deep-equal/
+      - title: "cloneDeep"
         url: /source/utils/rfdc/
