@@ -6,7 +6,7 @@ permalink: /source/utils/fast-deep-equal/
 从 fast-deep-equal 分析深度比较两个 JavaScript 对象的原理。通过思维导图分析深度相等原理，更清晰更形象，更容易理解源码并自己实现源码
 
 ## 思维导图
-![](https:/youtiao66.github.io/assets/images/source/fast-deep-equal.jpeg)
+![](https:/youtiao66.github.io/assets/images/source/fast-deep-equal.jpg)
 
 ## 源代码
 ```javascript
