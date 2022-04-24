@@ -65,6 +65,7 @@ toc_icon: "cog"
 - [Canva - 在线平面设计软件](https://www.canva.cn/)
 - [Dribbble - Discover the World’s Top Designers & Creative Professionals](https://dribbble.com/)
 - [UICN用户体验设计平台](https://www.ui.cn/)
+- [Free SVG Image & Icon. | SVG Silh](https://svgsilh.com/)
 
 ## Photoshop
 - [Bezier - 一个帮助掌握钢笔工具的游戏](https://bezier.method.ac/)
