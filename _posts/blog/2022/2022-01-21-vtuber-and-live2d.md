@@ -37,6 +37,10 @@ tags:
 
 * [Cubism SDK发行许可证](https://www.live2d.com/zh-CHS/download/cubism-sdk/release-license/)
 
+> [二次元live2d看板娘效果中的web前端技术](https://www.zhangxinxu.com/wordpress/2018/05/live2d-web-webgl-js/)
+
+> [网页添加 Live2D 看板娘](https://www.fghrsh.net/post/123.html)
+
 
 ## 方案二 - 第三方数字人方案合作
 > [百度智能云曦灵-智能数字人平台](https://cloud.baidu.com/product/baidudigitalhuman.html)

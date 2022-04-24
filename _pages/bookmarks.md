@@ -24,8 +24,8 @@ toc_icon: "cog"
 
 **微信公众号**
 
-- [Markdown | 让排版变 Nice](https://editor.mdnice.com/)
-- [微信 Markdown 编辑器 | Doocs 开源社区](https://doocs.github.io/md/)
+- [Markdown - 让排版变 Nice](https://editor.mdnice.com/)
+- [微信 Markdown 编辑器 - Doocs 开源社区](https://doocs.github.io/md/)
 - [秀米XIUMI - 微信排版编辑器，公众号图文排版工具](https://xiumi.us/)
 
 **微信小程序**
@@ -65,7 +65,7 @@ toc_icon: "cog"
 - [Canva - 在线平面设计软件](https://www.canva.cn/)
 - [Dribbble - Discover the World’s Top Designers & Creative Professionals](https://dribbble.com/)
 - [UICN用户体验设计平台](https://www.ui.cn/)
-- [Free SVG Image & Icon. | SVG Silh](https://svgsilh.com/)
+- [Free SVG Image & Icon. - SVG Silh](https://svgsilh.com/)
 
 ## Photoshop
 - [Bezier - 一个帮助掌握钢笔工具的游戏](https://bezier.method.ac/)
