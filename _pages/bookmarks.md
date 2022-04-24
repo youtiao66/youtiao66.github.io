@@ -98,6 +98,7 @@ toc_icon: "cog"
 - [SMMS 图床 - Simple Free Image Hosting](https://sm.ms/)
 - [ImgURL免费图床](https://imgurl.org/)
 - [APKMirror - Free APK Downloads](https://www.apkmirror.com/)
+- [Device Info - Web browser security, privacy, and troubleshooting tool.](https://www.deviceinfo.me/)
 
 ### 搜索引擎
 
