@@ -87,6 +87,11 @@ toc_icon: "cog"
 
 ## 在线工具
 
+- [DevDocs - 开发文档聚合网站](https://devdocs.io/)
+- [ray.so - 创建优美的代码分享图](https://ray.so/)
+- [roadmap.sh - 开发者学习路径](https://roadmap.sh/)
+- [Code Beautify - 开发者代码美化和格式化](https://codebeautify.org/)
+- [Resume - 求职简历制作](https://resume.io/)
 - [草料二维码](https://cli.im/)
 - [emoji 百科全书](https://emojipedia.org/)
 - [Apifox - API 文档、调试、Mock、测试一体化协作平台](https://www.apifox.cn/)
