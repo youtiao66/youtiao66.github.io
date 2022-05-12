@@ -77,7 +77,7 @@ location /i/ {
 
 ## 正确的做法
 
-1. 首先，更改目录设计。分别添加项目子目录
+- 首先，更改目录设计。分别添加项目子目录
 
   ```
   .
@@ -90,7 +90,7 @@ location /i/ {
           └── index.html
   ```
 
-2. 其次，更改 nginx 配置
+- 其次，更改 nginx 配置
 
   ```
   worker_processes  1;
@@ -131,7 +131,7 @@ location /i/ {
   }
   ```
 
-3. 最后，实际的访问路径
+- 最后，实际的访问路径
   - `localhost:8080           =>  /www`
   - `localhost:8080/project   =>  /web/project`
   - `localhost:8080/project2  =>  /web/project2`
