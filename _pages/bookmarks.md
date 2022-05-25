@@ -105,6 +105,7 @@ toc_icon: "cog"
 - [APKMirror - Free APK Downloads](https://www.apkmirror.com/)
 - [Device Info - Web browser security, privacy, and troubleshooting tool.](https://www.deviceinfo.me/)
 - [V集赞官网 - 最好用的朋友圈集赞P图软件](https://vjizan.com/)
+- [Convert PDF to Excel online for free | Adobe Acrobat](https://www.adobe.com/hk_en/acrobat/online/pdf-to-excel.html)
 
 ### 搜索引擎
 
