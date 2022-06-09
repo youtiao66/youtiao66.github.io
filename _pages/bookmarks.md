@@ -108,11 +108,14 @@ toc_icon: "cog"
 - [Convert PDF to Excel online for free - Adobe Acrobat](https://www.adobe.com/hk_en/acrobat/online/pdf-to-excel.html)
 
 ## 其他
+
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
-- [hankqin 的软件工具集](https://soft.hankqin.com/)
-- [果核剥壳 - 还原软件的本质](https://www.ghxi.com/)
+- [小林 x 图解计算机基础](https://xiaolincoding.com/)
+  - [为什么 0.1 + 0.2 不等于 0.3 ？](https://xiaolincoding.com/os/1_hardware/float.html)
 - [ilanyu's Blog](https://blog.lanyus.com/)
 - [Noven技术生涯经验分享](https://www.novenblog.xin/)
+- [hankqin 的软件工具集](https://soft.hankqin.com/)
+- [果核剥壳 - 还原软件的本质](https://www.ghxi.com/)
 - [税收分类编码查询](https://www.acc5.com/tools/tax_guid/)
 - [发票二维码含义, 及java生成二维码](https://blog.csdn.net/reol_fan/article/details/81182372)
 
