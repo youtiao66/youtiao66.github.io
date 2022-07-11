@@ -66,6 +66,9 @@ toc_icon: "cog"
 - [Dribbble - Discover the World’s Top Designers & Creative Professionals](https://dribbble.com/)
 - [UICN用户体验设计平台](https://www.ui.cn/)
 - [Free SVG Image & Icon. - SVG Silh](https://svgsilh.com/)
+- [Smooth Shadow - 平滑阴影](https://shadows.brumm.af/)
+- [CSS Gradient - Generator, Maker, and Background](https://cssgradient.io/)
+- [Get Waves – Create SVG waves for your next design](https://getwaves.io/)
 
 ## Photoshop
 - [Bezier - 一个帮助掌握钢笔工具的游戏](https://bezier.method.ac/)
