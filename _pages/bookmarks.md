@@ -75,6 +75,7 @@ toc_icon: "cog"
 - [Bezier - 一个帮助掌握钢笔工具的游戏](https://bezier.method.ac/)
 - [removebg - 图片背景消除，100% 全自动且免费](https://www.remove.bg/)
 - [PhotoRoom - 自动消除背景并创建专业图片](https://photoroom.com/)
+- [cleanupphotos - 清除照片上不要的物体](https://cleanupphotos.com/)
 
 ## Windows 软件
 - [Quicker - 您的指尖工具箱](https://getquicker.net/)
