@@ -105,15 +105,15 @@ input{
   }
   init() {
     const { settings } = this;
-    const { length, duration, size } = settings.particles
+    const { length, duration, size } = settings.particles;
     this.particles = new ParticlePool(settings.particles);
     this.particleRate = length / duration;
-    this.heartImage = new Heart(size, settings.color)
+    this.heartImage = new Heart(size, settings.color);
     this.render();
     window.addEventListener("resize", this.resize.bind(this))
   }
   pointOnHeart(t) {
-    const { scale } = this.settings
+    const { scale } = this.settings;
     return new Point(
       (160 * Math.pow(Math.sin(t), 3)) * scale,
       (130 * Math.cos(t) - 50 * Math.cos(2 * t) - 20 * Math.cos(3 * t) - 10 * Math.cos(4 * t) + 25) * scale
@@ -148,7 +148,7 @@ class Heart {
     this.canvas.width = size;
     this.canvas.height = size;
     this.size = size;
-    this.color = color
+    this.color = color;
     return this.create()
   }
   create() {
@@ -218,7 +218,7 @@ class Particle {
     this.acceleration = new Point();
     this.age = 0;
     this.effect = effect;
-    this.duration = duration
+    this.duration = duration;
     return this;
   }
   initialize(x, y, dx, dy) {
@@ -249,7 +249,7 @@ class Particle {
 
 class ParticlePool {
   constructor(options) {
-    const { length, duration, effect } = options
+    const { length, duration, effect } = options;
     this.particles = new Array(length);
     this.activeIndex = 0;
     this.freeIndex = 0;
