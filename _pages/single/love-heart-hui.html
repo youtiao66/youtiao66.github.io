@@ -1,0 +1,304 @@
+<style>
+* {
+  padding: 0;
+  margin: 0;
+  appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html, body {
+  height: 100vh;
+  background: #000;
+  position: relative;
+  overflow: hidden;
+}
+
+canvas {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  z-index: 1;
+}
+
+input{
+    position:fixed;
+    left: 50%;
+    top: 50%;
+    width: 300px;
+    margin-top: -40px;
+    margin-left: -150px;
+    color: rgba(255,255,255,.85);
+    font-size: 32px;
+    z-index: 520;
+    text-align: center;
+    border: 0;
+    background-color: transparent;
+    outline: none;
+    font-family:'Orbitron', sans-serif;
+    animation:heartBeat 1.3s ease-in-out infinite;
+}
+
+@keyframes heartBeat {
+    0% {
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+
+    14% {
+        -webkit-transform: scale(1.2);
+        transform: scale(1.2)
+    }
+
+    28% {
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+
+    42% {
+        -webkit-transform: scale(1.2);
+        transform: scale(1.2)
+    }
+
+    70% {
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+}
+</style>
+
+<input type="text" value="Love 惠" />
+<canvas id="canvasRef" />
+
+<script>
+  class LoveHeart {
+  constructor({ canvas, settings = {} }) {
+    this.canvas = canvas;
+    this.ctx = this.canvas.getContext('2d');
+    this.settings = {
+      particles: {
+        length: 365,
+        duration: 2,
+        velocity: 180,
+        effect: .85,
+        size: 52,
+      },
+      scale: .75,
+      color: '#fa5020',
+      ...settings,
+    };
+    this.resize();
+    this.time = null;
+    return this.init()
+  }
+  resize() {
+    this.canvas.width = this.canvas.clientWidth;
+    this.canvas.height = this.canvas.clientHeight;
+  }
+  init() {
+    const { settings } = this;
+    const { length, duration, size } = settings.particles
+    this.particles = new ParticlePool(settings.particles);
+    this.particleRate = length / duration;
+    this.heartImage = new Heart(size, settings.color)
+    this.render();
+    window.addEventListener("resize", this.resize.bind(this))
+  }
+  pointOnHeart(t) {
+    const { scale } = this.settings
+    return new Point(
+      (160 * Math.pow(Math.sin(t), 3)) * scale,
+      (130 * Math.cos(t) - 50 * Math.cos(2 * t) - 20 * Math.cos(3 * t) - 10 * Math.cos(4 * t) + 25) * scale
+    );
+  }
+  render() {
+    requestAnimationFrame(this.render.bind(this));
+
+    const { canvas, ctx, settings, particles, particleRate, heartImage } = this;
+    let nowTime = new Date().getTime() / 1000;
+    let dt = nowTime - (this.time || nowTime);
+    this.time = nowTime;
+
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+    let amount = particleRate * dt;
+    for (let i = 0; i < amount; i++) {
+      let pos = this.pointOnHeart(Math.PI - 2 * Math.PI * Math.random());
+      let dir = pos.clone().getLength(settings.particles.velocity);
+      particles.add(canvas.width / 2 + pos.x, canvas.height / 2 - pos.y, dir.x, -dir.y);
+    }
+
+    particles.update(dt);
+    particles.draw(ctx, heartImage);
+  }
+}
+
+class Heart {
+  constructor(size, color) {
+    this.canvas = document.createElement('canvas');
+    this.ctx = this.canvas.getContext('2d');
+    this.canvas.width = size;
+    this.canvas.height = size;
+    this.size = size;
+    this.color = color
+    return this.create()
+  }
+  create() {
+    this.draw();
+    let image = new Image();
+    image.src = this.canvas.toDataURL();
+    return image;
+  }
+  draw() {
+    const { ctx, color } = this;
+    ctx.beginPath();
+    let t = -Math.PI;
+    let point = this.getPonit.call(this, t);
+    ctx.moveTo(point.x, point.y);
+    while (t < Math.PI) {
+      t += 0.01;
+      point = this.getPonit(t);
+      ctx.lineTo(point.x, point.y);
+    }
+    ctx.closePath();
+    ctx.fillStyle = color;
+    ctx.fill();
+  }
+  getPonit(t) {
+    const { size } = this;
+    let point = this.pointOnHeart(t);
+    point.x = size / 2 + point.x * size / 350;
+    point.y = size / 2 - point.y * size / 350;
+    return point;
+  }
+  pointOnHeart(t) {
+    return new Point(
+      160 * Math.pow(Math.sin(t), 3),
+      130 * Math.cos(t) - 50 * Math.cos(2 * t) - 20 * Math.cos(3 * t) - 10 * Math.cos(4 * t) + 25
+    );
+  }
+}
+
+class Point {
+  constructor(x, y) {
+    this.x = x;
+    this.y = y;
+    return this
+  }
+  clone() {
+    return new Point(this.x, this.y)
+  }
+  normalize() {
+    let len = this.getLength();
+    this.x /= len;
+    this.y /= len;
+    return this;
+  }
+  getLength(length) {
+    if (!length) return Math.sqrt(this.x * this.x + this.y * this.y);
+    this.normalize();
+    this.x *= length;
+    this.y *= length;
+    return this;
+  }
+}
+
+class Particle {
+  constructor(effect = -.75, duration = 2) {
+    this.position = new Point();
+    this.velocity = new Point();
+    this.acceleration = new Point();
+    this.age = 0;
+    this.effect = effect;
+    this.duration = duration
+    return this;
+  }
+  initialize(x, y, dx, dy) {
+    this.position.x = x;
+    this.position.y = y;
+    this.velocity.x = dx;
+    this.velocity.y = dy;
+    this.acceleration.x = dx * this.effect;
+    this.acceleration.y = dy * this.effect;
+    this.age = 0;
+  }
+  update(dt) {
+    this.position.x += this.velocity.x * dt;
+    this.position.y += this.velocity.y * dt;
+    this.velocity.x += this.acceleration.x * dt;
+    this.velocity.y += this.acceleration.y * dt;
+    this.age += dt;
+  }
+  draw(ctx, image) {
+    let size = image.width * this.ease(this.age / this.duration);
+    ctx.globalAlpha = 1 - this.age / this.duration;
+    ctx.drawImage(image, this.position.x - size / 2, this.position.y - size / 2, size, size);
+  }
+  ease(t) {
+    return (--t) * t * t + 1;
+  }
+}
+
+class ParticlePool {
+  constructor(options) {
+    const { length, duration, effect } = options
+    this.particles = new Array(length);
+    this.activeIndex = 0;
+    this.freeIndex = 0;
+    this.duration = duration;
+    this.effect = effect;
+    return this.init();
+  }
+  init() {
+    const { duration, effect, particles } = this
+    for (let i = 0; i < particles.length; i++) {
+      particles[i] = new Particle(effect, duration);
+    }
+  }
+  add(x, y, dx, dy) {
+    this.particles[this.freeIndex].initialize(x, y, dx, dy);
+    this.freeIndex++;
+    if (this.freeIndex == this.particles.length) this.freeIndex = 0;
+    if (this.activeIndex == this.freeIndex) this.activeIndex++;
+    if (this.activeIndex == this.particles.length) this.activeIndex = 0;
+  }
+  draw(ctx, image) {
+    const { activeIndex, freeIndex, particles } = this;
+    if (activeIndex < freeIndex) {
+      for (let i = activeIndex; i < freeIndex; i++)
+        particles[i].draw(ctx, image);
+    }
+    if (freeIndex < activeIndex) {
+      for (let i = activeIndex; i < particles.length; i++)
+        particles[i].draw(ctx, image);
+      for (let i = 0; i < freeIndex; i++)
+        particles[i].draw(ctx, image);
+    }
+  }
+  update(dt) {
+    const { particles, duration } = this;
+    if (this.activeIndex < this.freeIndex) {
+      for (let i = this.activeIndex; i < this.freeIndex; i++)
+        particles[i].update(dt);
+    }
+    if (this.freeIndex < this.activeIndex) {
+      for (let i = this.activeIndex; i < particles.length; i++)
+        particles[i].update(dt);
+      for (let i = 0; i < this.freeIndex; i++)
+        particles[i].update(dt);
+    }
+    while (particles[this.activeIndex].age >= duration && this.activeIndex != this.freeIndex) {
+      this.activeIndex++;
+      if (this.activeIndex == particles.length) this.activeIndex = 0;
+    }
+  }
+}
+
+
+; (function () {
+  new LoveHeart({
+    canvas: document.getElementById("canvasRef")
+  });
+})();
+</script>
