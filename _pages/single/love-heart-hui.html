@@ -258,7 +258,7 @@ class ParticlePool {
     return this.init();
   }
   init() {
-    const { duration, effect, particles } = this
+    const { duration, effect, particles } = this;
     for (let i = 0; i < particles.length; i++) {
       particles[i] = new Particle(effect, duration);
     }
