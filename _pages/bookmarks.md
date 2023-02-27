@@ -113,6 +113,7 @@ toc_icon: "cog"
 - [Convert PDF to Excel online for free - Adobe Acrobat](https://www.adobe.com/hk_en/acrobat/online/pdf-to-excel.html)
 - [geojson - 中国地图数据](https://geojson.cn/)
 - [Palette - Colorize Photos](https://palette.fm/)
+- [URL-encoder for SVG](https://yoksel.github.io/url-encoder/)
 
 ## 其他
 
