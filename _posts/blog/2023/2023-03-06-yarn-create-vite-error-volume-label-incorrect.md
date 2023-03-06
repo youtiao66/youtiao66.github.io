@@ -95,5 +95,5 @@ yarn config set cache-folder "F:\yarn\cache"
 把`F:\yarn\global\node_modules\.bin`添加系统环境变量到`Path`中。
 ## 参考文档
 
-- [yarn global | Yarn](https://classic.yarnpkg.com/en/docs/cli/global)
-- [yarn cache | Yarn](https://classic.yarnpkg.com/en/docs/cli/cache#toc-change-the-cache-path-for-yarn)
+- [yarn global](https://classic.yarnpkg.com/en/docs/cli/global)
+- [yarn cache](https://classic.yarnpkg.com/en/docs/cli/cache#toc-change-the-cache-path-for-yarn)
