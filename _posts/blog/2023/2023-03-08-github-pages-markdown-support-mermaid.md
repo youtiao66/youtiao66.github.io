@@ -8,7 +8,7 @@ tags:
 
 最近在研究通过文本和代码创建图标和可视化，`Mermaid`功能比较丰富，Web支持也比较友好。如何让`GitHub Pages`中通过`Markdown`编辑的博客也支持`Mermaid`呢？
 
-<!-- more -->
+<!--more-->
 
 ## 完整示例
 
