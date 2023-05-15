@@ -20,6 +20,12 @@ toc_icon: "cog"
 
 ![github1s](https://i.loli.net/2021/05/10/XU7eaBT4fJimGRP.png)
 
+将以下代码片段保存为浏览器书签，您可以使用它在`github.com`和`github1s.com`之间快速切换
+
+```
+javascript: window.location.href = window.location.href.replace(/github(1s)?.com/, function(match, p1) { return p1 ? 'github.com' : 'github1s.com' })
+```
+
 ## `Star: 18.1k`
 
 ## 参考
