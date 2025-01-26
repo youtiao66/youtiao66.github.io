@@ -130,5 +130,13 @@ toc_icon: "cog"
 ## 放松一下
 - [请画一个火柴人](https://www.webhek.com/post/draw-a-stickman.html)
 
+## 技术
+
+- [如何简化布尔表达式](https://testing.googleblog.com/2024/04/isbooleantoolongandcomplex.html)
+
+### CSS
+
+- [如何制作一个CSS计时器](https://frontendmasters.com/blog/how-to-make-a-css-timer/)
+
 ## TODOS
 - [使用PHP生成PDF文档](https://www.cnblogs.com/rxbook/p/10667010.html)
