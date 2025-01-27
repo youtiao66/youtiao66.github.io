@@ -114,6 +114,7 @@ toc_icon: "cog"
 - [geojson - 中国地图数据](https://geojson.cn/)
 - [Palette - Colorize Photos](https://palette.fm/)
 - [URL-encoder for SVG](https://yoksel.github.io/url-encoder/)
+- [发票提取助手](https://airegex.cn/)
 
 ## 其他
 
