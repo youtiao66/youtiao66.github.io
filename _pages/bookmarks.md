@@ -78,12 +78,13 @@ toc_icon: "cog"
 - [PhotoRoom - 自动消除背景并创建专业图片](https://photoroom.com/)
 - [cleanupphotos - 清除照片上不要的物体](https://cleanupphotos.com/)
 
-## Windows 软件
+## Windows
 - [Quicker - 您的指尖工具箱](https://getquicker.net/)
 - [轻闪 PDF，PDF 转 Word](https://lightpdf.cn/)
 - [IObit Uninstaller 软件卸载工具](https://www.iobit.com/en/advanceduninstaller.php)
 - [Lunacy - 平面设计软件，与Sketch完全兼容](https://igoutu.cn/lunacy)
 - [Internet Download Manager: The fastest download accelerator](https://www.internetdownloadmanager.com/)
+- [Windows设置nginx开机自启动的方法](https://www.cnblogs.com/xiangzhong/p/17945202)
 
 ## 软件工具
 - [华为云镜像](https://mirrors.huaweicloud.com/)
